@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anas Taleeb</h1>
+<h1 align="center">Hi 👋, I'm Emam Samara</h1>
 
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=750&height=100&lines=Assalamu+Alaikum+Warahmatullah..&hearts;++;I'm+A+3rd+Year+Computer+Science+Students+in+BZU+💻,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..😊"></a>
@@ -13,13 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasataleeb&label=Profile%20views&color=0e75b6&style=flat" alt="anasataleeb" /> </p>
 
-- 🔭 I’m currently working on **Graduation project**
 
-- 💻 I’m currently learning **Flutter and Dart by self**
-
-- 👀  I'm Full Stack Developer @**Olivery App** 
-
-- 📫 How to reach me ? **anastaleeb750@gmail.com**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
