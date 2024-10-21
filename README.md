@@ -2,6 +2,10 @@
 
 ###
 
+<img align="right" height="150" src="https://media.giphy.com/media/VWWtrugiim4e9g02GN/giphy.gif?cid=ecf05e47beqgghx2irc5tcd6oplqnsjpf9z9mqwi8l1j1jln&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -17,9 +21,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
-
-###
-
-<p align="left">Computer Engineering student</p>
 
 ###
