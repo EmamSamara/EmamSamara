@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emam Samara</h1>
 
 <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=750&height=100&lines=I'm+A+3rd+Year+Computer+Engineering+Students+at+BZU+💻,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..😊"></a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=750&height=100&lines=I'm+A+3rd+Year+Computer+Engineering+Student+at+BZU+💻,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..😊"></a>
   </p>
   <br>
 
