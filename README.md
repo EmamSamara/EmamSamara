@@ -6,7 +6,6 @@
   <br>
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/EmamSamara/EmamSamara/assets/102483320/72d86498-3898-418d-b1b4-b3dfc9088f55" width = 250px></picture>
 <br>
