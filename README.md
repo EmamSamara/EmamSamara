@@ -33,7 +33,7 @@
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/emam-samara-2a07a7374/](https://www.linkedin.com/in/emam-samara-2a07a7374/)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.linkedin.com/in/emam-samara-2a07a7374/)" alt="anas a taleeb" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/emam-samara-2a07a7374/](https://www.linkedin.com/in/emam-samara-2a07a7374/)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.linkedin.com/in/emam-samara-2a07a7374/)" alt="emam samara" height="30" width="40" /></a>
 <a href="https://www.facebook.com/emamthaersamara1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anas.ayman.tb" height="30" width="40" /></a>
 <a href="https://www.instagram.com/emam_samara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anas_.tb" height="30" width="40" /></a>
 </p>
