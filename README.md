@@ -6,11 +6,6 @@
   </a>
 </p>
 
-<!-- Profile Image -->
-<div align="center">
-  <img src="https://github.com/EmamSamara/EmamSamara/assets/102483320/72d86498-3898-418d-b1b4-b3dfc9088f55" width="200px" style="border-radius: 10px;" alt="Emam Samara Profile Image">
-</div>
-
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EmamSamara&label=Profile%20views&color=0e75b6&style=flat" alt="EmamSamara" />
