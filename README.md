@@ -8,8 +8,8 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmamSamara&show_icons=true&count_private=true&include_all_commits=true&title_color=00FFFF&icon_color=7A7ADB&text_color=D3D3D3&bg_color=0F2027,203A43,2C5364" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmamSamara&layout=compact&title_color=00FFFF&icon_color=7A7ADB&text_color=D3D3D3&bg_color=0F2027,203A43,2C5364" width="375"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EmamSamara&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmamSamara&layout=compact&theme=tokyonight" width="375"/>
 </div>
 
 ---
