@@ -6,12 +6,11 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=EmamSamara&show_icons=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs?username=EmamSamara&layout=compact&theme=tokyonight" width="375"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmamSamara&theme=tokyonight" width="450"/>
-</div>
+### 📊 GitHub Stats
+
+🔹 [My GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmamSamara&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)  
+🔹 [Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=EmamSamara&layout=compact&theme=tokyonight)  
+🔹 [Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=EmamSamara&theme=tokyonight)
 
 ---
 
