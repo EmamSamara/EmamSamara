@@ -6,15 +6,20 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-🔹 [My GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmamSamara&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)  
-🔹 [Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=EmamSamara&layout=compact&theme=tokyonight)  
-🔹 [Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=EmamSamara&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmamSamara&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmamSamara&theme=tokyonight" alt="Streak Stats" />
+</p>
 
 ---
 
 <h2 align="center">🧰 Languages & Tools</h2>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,java,html,flutter,dart,android,git,github,spring,mysql,postman,vscode" />
 </p>
@@ -22,10 +27,17 @@
 ---
 
 <h2 align="center">🌐 Connect with me</h2>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/emam-samara-2a07a7374/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  <a href="https://www.facebook.com/emamthaersamara1" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="40"/></a>
-  <a href="https://www.instagram.com/emam_samara" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+  <a href="https://www.linkedin.com/in/emam-samara-2a07a7374/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+  <a href="https://www.facebook.com/emamthaersamara1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/emam_samara" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
+  </a>
 </p>
 
 ---
