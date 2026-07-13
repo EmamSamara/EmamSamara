@@ -1,5 +1,4 @@
 <h1 align="center">🌟 Hi, I'm Emam Samara 🌟</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=💻+Computer+Engineering+Student+at+BZU;🚀+Active+Learner+%26+Researcher;⚡+Passionate+about+Coding+%26+Innovation" alt="Typing SVG" />
 </p>
@@ -7,11 +6,9 @@
 ---
 
 ### 📊 GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmamSamara&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmamSamara&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmamSamara&theme=tokyonight" alt="Streak Stats" />
 </p>
@@ -19,7 +16,6 @@
 ---
 
 <h2 align="center">🧰 Languages & Tools</h2>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,java,html,flutter,dart,android,git,github,spring,mysql,postman,vscode" />
 </p>
@@ -27,7 +23,6 @@
 ---
 
 <h2 align="center">🌐 Connect with me</h2>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/emam-samara-2a07a7374/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
