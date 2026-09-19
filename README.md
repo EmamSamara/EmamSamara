@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=💻+Computer+Engineering+Student+at+BZU;🚀+Active+Learner+%26+Researcher;⚡+Passionate+about+Coding+%26+Innovation" alt="Typing SVG" />
 </p>
----
 
 <h2 align="center">📊 GitHub Activity</h2>
 <p align="center">
@@ -12,14 +11,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmamSamara&theme=tokyonight" alt="Streak Stats" />
 </p>
 
----
 
 <h2 align="center">🧰 Languages & Tools</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,java,html,flutter,dart,android,git,github,spring,mysql,postman,vscode" />
 </p>
 
----
 
 <h2 align="center">🌐 Connect with me</h2>
 <p align="center">
@@ -34,7 +31,6 @@
   </a>
 </p>
 
----
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Decorative Animation">
