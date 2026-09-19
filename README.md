@@ -7,7 +7,7 @@
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=EmamSamara&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" width="600" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=EmamSamara&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" width="520" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmamSamara&theme=tokyonight" alt="Streak Stats" />
