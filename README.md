@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=💻+Computer+Engineering+Student+at+BZU;🚀+Active+Learner+%26+Researcher;⚡+Passionate+about+Coding+%26+Innovation" alt="Typing SVG" />
 </p>
 
+
 ---
 
 <h2 align="center">📊 GitHub Activity</h2>
