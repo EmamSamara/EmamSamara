@@ -5,9 +5,9 @@
 
 ---
 
-<h3 align="center">📊 GitHub Activity</h3>
+<h2 align="center">📊 GitHub Activity</h2>
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=EmamSamara&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" width="480" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=EmamSamara&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" width="460" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmamSamara&theme=tokyonight" alt="Streak Stats" />
